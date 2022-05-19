@@ -1,0 +1,39 @@
+#timer{
+   position: relative; 
+   left:20px;
+   top:20px;
+   font-size:38px;
+   font-family:arial;
+}
+  
+
+
+#start{
+     margin-top :50px;
+     padding:10px 15px;
+     font-family:Impact;
+     border-radius:3px;
+     border-color:black;
+     border-width:thin;
+     background-color:#DDDDDD;
+}
+
+#stop{
+     margin-top :50px;
+     padding:10px 15px;
+     font-family:Impact;
+     border-radius:3px;
+     border-color:black;
+     border-width:thin;
+     background-color:#DDDDDD;
+}
+
+#reset{
+     margin-top :50px;
+     padding:10px 15px;
+     font-family:Impact;
+     border-radius:3px;
+     border-color:black;
+     border-width:thin;
+     background-color:#DDDDDD;
+}
